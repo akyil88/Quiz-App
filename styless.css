@@ -1,0 +1,50 @@
+
+
+
+
+.myheaderbox {
+
+    width: 300px;
+    height: 40px;
+    background-color: white;
+    margin: 60px 0px 0px 0px;
+    padding:  10px;
+    font-size: 30pt;
+    color:black;
+    border: 3px solid black;
+    background-position: none;
+    text-align: center;
+    
+    }
+
+
+    .bodybox {
+
+        width: 300px;
+        height: 375px;
+        background-color: white;
+        margin: 0px 0px 0px 150px;
+        padding:  10px;
+        font-size: 20pt;
+        color:black;
+        border: 3px solid black;
+        background-position: 10px;
+        text-align: center;
+        display:table-cell;
+        vertical-align: middle;
+    
+    }
+
+
+
+    .middlebox {
+
+        width: 260px;
+        height: 200px;
+        background-color: ehite;
+        margin: -380px 0px 0px 20px;
+        padding:  10px;
+        font-size; 30pt;
+        color:black;
+        border: 3px solid black;
+    }
